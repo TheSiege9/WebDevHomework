@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title> Pine </title>
+    <meta charset = "utf-8" />
+  </head>
+  <img src = "pine forest.jpg" width = "50%" height = "50%" />
+  <p>
+    The pine tree is a conifer that is in many different places in the world. </br>
+    The tree can live over 100 years and even as high as 1000! </br>
+    Pine trees are some of the most used trees in the world for their use in lumber and other areas.
+  </p>
+  <h2> Uses for Pine </h2>
+  <ul>
+    <li> Fire wood </li>
+    <li> Paper </li>
+    <li> Timber </li>
+    <li> Christmas Trees </li>
+    <li> Used for food, medicene, and tea </li>
+  </ul>
+  <a href = "M2A5.html"> Back to Home </a>

@@ -1,0 +1,40 @@
+var numbers = new Array();
+numbers[0] =  "5";
+   numbers[1] =  " 6";
+   numbers[2] =  " 7";
+   numbers[3] =  " 8";
+   numbers[4] =  " 9";
+   numbers[5] =  " 10";
+   numbers[6] =  " 11";
+   numbers[7] =  " 12";
+   numbers[8] =  " 13";
+   numbers[9] =  " 14";
+   numbers[10] = " 15";
+var squares = new Array();
+squares[0] =  "25";
+   squares[1] =  " 36";
+   squares[2] =  " 49";
+   squares[3] =  " 64";
+   squares[4] =  " 81";
+   squares[5] =  " 100";
+   squares[6] =  " 121";
+   squares[7] =  " 144";
+   squares[8] =  " 169";
+   squares[9] =  " 196";
+   squares[10] = " 225";
+var cubes = new Array();
+cubes[0] =  "125";
+   cubes[1] =  " 215";
+   cubes[2] =  " 343";
+   cubes[3] =  " 512";
+   cubes[4] =  " 729";
+   cubes[5] =  " 1000";
+   cubes[6] =  " 1331";
+   cubes[7] =  " 1728";
+   cubes[8] =  " 2197";
+   cubes[9] =  " 2744";
+   cubes[10] = " 3375";
+
+
+alert ("Numbers 5 to 15 and their cubes and squares." + "\n" + "\n" + "Numbers: " + numbers + "\n" + "\n" +
+"Squares:  " + squares + "\n" + "\n" + "Cubes: " + cubes);

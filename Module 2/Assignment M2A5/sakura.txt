@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title> Sakura Information Page </title>
+    <meta charset = "utf-8" />
+  </head>
+  <body>
+    <img src = "white sakura.jpg" width = "50%" height = "50%" />
+    <p>
+      The Sakura tree is a very vibrant tree that is most known for its abundance in Japan. <br/>
+      It is actaully found in many different places however! <br/>
+      This includes Australia, Brazil, the U.S., and even more! <br/>
+      On the home page it was stated that they come in pink, but they also come in a very nice white color as well.
+    </p>
+
+    <h2> Uses for Sakuras </h2>
+    <ul>
+      <li> Fire wood </li>
+      <li> Decoration </li>
+      <li> Flower petals are used in some recipes and teas </li>
+    </ul>
+    <a href = "M2A5.html"> Back to Home </a>
+  </body>
+</html>

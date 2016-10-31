@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title> Testing lists in HTML </title>
+    <meta charset = "utf-8" />
+  </head>
+
+<body>
+  <h1> List of states and some cities in them </h1>
+  <br>
+  <ul>
+    <li> Oklahoma </li>
+      <ol>
+        <li> Oklahoma City </li>
+        <li> Lawton </li>
+        <li> Weatherford </li>
+        <br/>
+      </ol>
+      <li> Texas </li>
+        <ol>
+          <li> Austin </li>
+          <li> Houstin </li>
+          <li> Grapevine </li>
+        </ol>
+      <br/>
+      <li> California </li>
+        <ol>
+          <li> San Francisco </li>
+          <li> Norwalk </li>
+          <li> Los Angeles </li>
+        </ol>
+        <br/>
+      <li> Colorado </li>
+        <ol>
+          <li> Dillon </li>
+          <li> Denver </li>
+          <li> Keystone </li>
+        </ol>
+      </ul>
+    </html>

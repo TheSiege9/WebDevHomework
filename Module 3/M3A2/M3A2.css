@@ -1,0 +1,14 @@
+<style type = "text/css" >
+
+  ol {list-style-type: upper-roman;}
+  ol {list-style-type: upper-roman;}
+  ol ol {list-style-type: upper-latin;}
+  ol ol ol {list-style-type: decimal;}
+  ol ol ol ol {list-style-type: upper-roman;}
+  li.pink {background-color: pink;}
+  ol.pink {background-color: pink;}
+  li.blue {background-color: lightblue;}
+  ol.blue {background-color: lightblue;}
+  li.red {background-color: red;}
+  ol.red {background-color: red;}
+</style>
