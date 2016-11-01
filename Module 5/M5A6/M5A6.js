@@ -6,7 +6,6 @@ function draw() {
 
     context.fillRect(180, 180, 300, 300);
 
-    context.clearRect(180, 180, 200, 0, 2 * Math.Pi, false);
 
       }
 }
