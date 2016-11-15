@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title> Testing with z-indexes </title>
+    <mete charset = "utf-8" />
+    <script type = "text/javascript" src = "M6A3.js">
+    </script>
+    <style type = "text/css">
+      .image1 {position: absolute; top: 20px; left: 475px; z-index: 0;}
+      .image2 {position: absolute; top: 20px; left: 475px; z-index: 1;}
+      .image3 {position: absolute; top: 20px; left: 475px; z-index: 2;}
+    </style>
+  </head>
+  <body>
+    <p>
+      <img class = "image1" id = "image1" src = "mario.jpg" />
+      <img class = "image2" id = "image2" src = "sonic.png" />
+      <img class = "image3" id = "image3" src = "link.jpg"  />
+    </p>
+    <form id = "myForm" action = "" />
+      <button type = "button" onclick = "toTop('image1')"> 1 <br />
+      <button type = "button" onclick = "toTop('image2')"> 2 <br />
+      <button type = "button" onclick = "toTop('image3')"> 3 <br />
+    </form>
+  </body>
+</html>
